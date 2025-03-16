@@ -1,0 +1,19 @@
+{
+  "name": "websites-utils-bundle",
+  "version": "0.0.1",
+  "description": "A lot of useful utilities for websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dynesshely/Websites-Utils-Bundle.git"
+  },
+  "author": "Dynesshely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dynesshely/Websites-Utils-Bundle/issues"
+  },
+  "homepage": "https://github.com/Dynesshely/Websites-Utils-Bundle#readme"
+}
